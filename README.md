@@ -1,4 +1,6 @@
 # codespace-chef-vagrant
+
+
 Provision Chef Codespace by School of Devops using Vagrant and Virtualbox
 
 
@@ -8,6 +10,7 @@ Provision Chef Codespace by School of Devops using Vagrant and Virtualbox
 ## Download the Codespace Vagrant Image
 
 Download the box from the following URI
+
 https://s3.ap-south-1.amazonaws.com/docker-boxes/ubuntu1604-22.box
 
 
@@ -40,6 +43,11 @@ codespace-chef (virtualbox, 0)
 git clone git@github.com:schoolofdevops/codespace-chef-vagrant.git
 
 ```
+
+Alternately you could download the repo from the following URI
+
+ https://github.com/schoolofdevops/codespace-chef-vagrant
+
 
 Change into the **codespace-chef-vagrant**  created by above command
 
